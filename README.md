@@ -9,3 +9,5 @@
 LFG! 🏃‍♂️💨💨💨💨💨💨💨
 
 [![ryyant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryyant&hide=stars&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryyant&layout=compact&theme=nightowl)](https://github.com/ryyant/github-readme-stats)
