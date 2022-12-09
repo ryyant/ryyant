@@ -1,7 +1,5 @@
-# gm!👋🌈🙇‍♂️
-
 ## Information Systems Undergraduate | National University of Singapore (NUS)
 
-Financial Technology, Enterprise Systems, Software Engineering, Blockchain Development, Decentralised Finance
+Software Engineering for Financial Applications
 
-Java, Python, Solidity, Javascript, SQL, React, Angular, Node.js and more
+Java, TypeScript, Python, C++, Solidity, SQL, React, Angular, Node.js and more
