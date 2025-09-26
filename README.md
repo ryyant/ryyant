@@ -1,1 +1,1 @@
-## Software Engineer | National University of Singapore (NUS)
+## Data Science & Engineering | National University of Singapore (NUS)
